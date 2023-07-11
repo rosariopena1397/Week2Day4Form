@@ -1,0 +1,16 @@
+.header, .firstName, .lastName, .email, .submit {
+ text-align: center;
+}
+
+body{
+ padding: 200px;
+}
+.wrapperBox{
+    width: 275px;
+    border: 1px solid black;
+
+}
+.submit {
+ padding: 10px 15px;
+ border: 1px solid black
+}
